@@ -1,4 +1,4 @@
-# Hi there, I'm Sameer Safdar!
+# Sameer Safdar here!
 
 🎓 BS Software Engineering Student @ Emerson University Multan (2028)
 💻 Front-End Developer | Social Media Marketing Specialist

@@ -1,22 +1,22 @@
 # Sameer Safdar here!
 
-🎓 BS Software Engineering Student @ Emerson University Multan (2028)
-💻 Front-End Developer | Social Media Marketing Specialist
-📍 Multan, Punjab, Pakistan
+ BS Software Engineering Student @ Emerson University Multan (2028)
+| Front-End Developer | Social Media Marketing Specialist |
+ Multan, Punjab, Pakistan
 
 ---
 
 ##  About Me
 
-- 🔭 Currently working on full-stack web projects
-- 🌱 Learning **React.js** and improving my JavaScript skills
-- 💼 Completed a 6-Week Front-End Development Internship @ **DevelopersHub Corporation** — 🏆 Best Award Winner
-- 📣 Managing 100+ social media accounts with proven results
-- 📫 Reach me at: **sameerkhanbadoi786@gmail.com**
+-  Currently working on full-stack web projects
+-  Learning **React.js** and improving my JavaScript skills
+-  Completed a 6-Week Front-End Development Internship @ **DevelopersHub Corporation** — 🏆 Best Award Winner
+-  Managing 100+ social media accounts with proven results
+-  Reach me at: **sameerkhanbadoi786@gmail.com**
 
 ---
 
-## 🛠️ Skills & Tools
+##  Skills & Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -30,17 +30,17 @@
 
 ## 📂 Featured Projects
 
-### 🛒 [Ecommerce Web Design](https://github.com/sameerkhanbadoi786-sudo/Ecommerce-Web-Design)
+###  [Ecommerce Web Design](https://github.com/sameerkhanbadoi786-sudo/Ecommerce-Web-Design)
 Fully responsive e-commerce website built with HTML, CSS & JavaScript with clean UI and mobile-first design.
 
-### 🚀 [Nexus Full Stack Application](https://github.com/sameerkhanbadoi786-sudo/Nexus-Full-Stack-Main-)
+###  [Nexus Full Stack Application](https://github.com/sameerkhanbadoi786-sudo/Nexus-Full-Stack-Main-)
 Full-stack web application with frontend and backend integration, API connections and dynamic data management.
 
 ---
 
 ## 🏆 Certifications
 
-- 🥇 **Front-End Development** — DevelopersHub Corporation *(Best Award | DHC-2363 | 2026)*
+-  **Front-End Development** — DevelopersHub Corporation *(Best Award | DHC-2363 | 2026)*
 
 ---
 

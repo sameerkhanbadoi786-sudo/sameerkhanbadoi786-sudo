@@ -36,8 +36,9 @@ Fully responsive e-commerce website built with HTML, CSS & JavaScript with clean
 ###  [Nexus Full Stack Application](https://github.com/sameerkhanbadoi786-sudo/Nexus-Full-Stack-Main-)
 Full-stack web application with frontend and backend integration, API connections and dynamic data management.
 
-###  [Prescripto](https://github.com/sameerkhanbadoi786-sudo/prescripto)
-Full-stack doctor appointment booking app (MERN stack) with automated SMS & email reminders, secure authentication, and MongoDB integration.
+### [Prescripto](https://github.com/sameerkhanbadoi786-sudo/prescripto)
+Full-stack doctor appointment booking app with automated SMS & email reminders, secure authentication, and MongoDB integration.
+
 ---
 
 ## 🏆 Certifications

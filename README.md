@@ -47,12 +47,6 @@ Full-stack doctor appointment booking app with automated SMS & email reminders, 
 
 ---
 
-## 📊 GitHub Stats
-
-![Sameer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameerkhanbadoi786-sudo&show_icons=true&theme=tokyonight)
-
----
-
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sameersafdar)

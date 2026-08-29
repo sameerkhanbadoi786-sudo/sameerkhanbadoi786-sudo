@@ -1,7 +1,8 @@
 # Sameer Safdar here!
 
  BS Software Engineering Student @ Emerson University Multan (2028)
-| Full Stack Developer | Web Design | Social Media Marketing Specialist |
+| Full Stack Developer | Web Designer
+| Social Media Marketing Specialist |
  Multan, Punjab, Pakistan
 
 ---

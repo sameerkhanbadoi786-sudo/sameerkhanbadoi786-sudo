@@ -10,7 +10,7 @@
 
 -  Currently working on full-stack web projects
 -  Learning **React.js** and improving my JavaScript skills
--  Completed a 6-Week Front-End Development Internship @ **DevelopersHub Corporation** — 🏆 Best Award Winner
+-  Completed a 6-Week Front-End Development Internship @ **DevelopersHub Corporation** —  Best Award Winner
 -  Managing 100+ social media accounts with proven results
 -  Reach me at: **sameerkhanbadoi786@gmail.com**
 
@@ -28,7 +28,10 @@
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
+
+###  [Flowboard – Project Management Tool](https://github.com/sameerkhanbadoi786-sudo/Project-Management)
+A full-stack project management tool with a Node.js/Express backend and React frontend. Features include JWT-based authentication, real-time updates via Socket.io, project & task boards, and email notifications.
 
 ###  [Ecommerce Web Design](https://github.com/sameerkhanbadoi786-sudo/Ecommerce-Web-Design)
 Fully responsive e-commerce website built with HTML, CSS & JavaScript with clean UI and mobile-first design.
@@ -38,10 +41,9 @@ Full-stack web application with frontend and backend integration, API connection
 
 ### [Prescripto](https://github.com/sameerkhanbadoi786-sudo/prescripto)
 Full-stack doctor appointment booking app with automated SMS & email reminders, secure authentication, and MongoDB integration.
-
 ---
 
-## 🏆 Certifications
+##  Certifications
 
 -  **Front-End Development** — DevelopersHub Corporation *(Best Award | DHC-2363 | 2026)*
 

@@ -31,7 +31,7 @@
 
 ##  Featured Projects
 
-### [Flowboard – Project Management Tool](https://github.com/sameerkhanbadoi786-sudo/Project-Management.git)
+### [Flowboard – Project Management Tool](https://github.com/sameerkhanbadoi786-sudo/Flowboard--Project-Management-Tool.git)
 A Trello-style board tool (React 19 + Vite frontend, Node/Express + Socket.io backend) with drag-and-drop lists, live board sync over Socket.io rooms, and a bell-icon notification feed with unread counts for every board change. Accounts are backed by SQLite via Node's built-in node:sqlite with real bcrypt hashing (no external DB setup needed), and boards can be exported client-side to PDF or Word.
 
 ### [Prescripto](https://github.com/sameerkhanbadoi786-sudo/prescripto.git)

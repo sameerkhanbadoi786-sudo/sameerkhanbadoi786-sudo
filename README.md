@@ -1,7 +1,7 @@
-# Sameer Safdar
+# Sameer Safdar here !
 
-**Software Engineer | Full Stack Developer**
-Frontend Development | MERN Stack | Web Design | Social Media Marketing
+**Software Engineer | Full Stack Developer |
+Frontend Development | MERN Stack | Web Design | Social Media Marketing**
 
 ---
 

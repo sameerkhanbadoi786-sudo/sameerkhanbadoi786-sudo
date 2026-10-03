@@ -1,27 +1,31 @@
-# Sameer Safdar here!
+# Sameer Safdar
 
- BS Software Engineering Student @ Emerson University Multan (2028)
-| Frontend Developer | Learning Full-Stack Development | Web Designer
-| Social Media Marketing Specialist |
- Multan, Punjab, Pakistan
+**Software Engineer | Full Stack Developer**
+Frontend Development | MERN Stack | Web Design | Social Media Marketing
 
 ---
 
-##  About Me
+## About Me
 
--  Currently working on full-stack web projects
--  Learning **React.js** and improving my JavaScript skills
--  Completed a 6-Week Front-End Development Internship @ **DevelopersHub Corporation** —  Best Award Winner
--  Managing 100+ social media accounts with proven results
--  Reach me at: **sameerkhanbadoi786@gmail.com**
+- Building full-stack web applications with React, Node.js and MongoDB
+- Completed a Full Stack Development Virtual Internship at **CodeAlpha** (September 2026)
+- Completed a 6-Week Front-End Development Internship at **DevelopersHub Corporation** and received the Best Award
+- Managing 100+ social media accounts with proven results
+- Contact: **sameerkhanbadoi786@gmail.com**
 
 ---
 
-##  Skills & Tools
+## Skills and Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Meta](https://img.shields.io/badge/Meta_Business-1877F2?style=for-the-badge&logo=meta&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -29,30 +33,33 @@
 
 ---
 
-##  Featured Projects
+## Featured Projects
 
-### [Connecthub - realtime collab app](https://github.com/sameerkhanbadoi786-sudo/Connecthub-realtime-collab-app.git)
-A real-time video collaboration app (vanilla HTML/CSS/JS frontend, Node/Express + Socket.io backend) with WebRTC full-mesh calling, a synced whiteboard, chat with @mentions, and file sharing, all gated behind JWT-authenticated rooms. Room ownership is enforced server-side — only the creator can remove a participant, not just hidden in the UI — and SQLite via Node's built-in node:sqlite handles accounts with bcrypt hashing, no external DB setup needed. Screen sharing is deliberately hidden on mobile rather than left broken, since Android/iOS browsers don't reliably support the underlying capture API.
+### [ConnectHub - Real-Time Collaboration App](https://github.com/sameerkhanbadoi786-sudo/Connecthub-realtime-collab-app.git)
+Real-time collaboration platform with WebRTC video calling, a synced whiteboard, chat with @mentions and file sharing. Built with a vanilla HTML/CSS/JS frontend and a Node/Express and Socket.io backend. Rooms are protected with JWT authentication, room ownership is enforced server-side and accounts are stored in SQLite with bcrypt hashing.
 
-### [Flowboard – Project Management Tool](https://github.com/sameerkhanbadoi786-sudo/Flowboard--Project-Management-Tool.git)
-A Trello-style board tool (React 19 + Vite frontend, Node/Express + Socket.io backend) with drag-and-drop lists, live board sync over Socket.io rooms, and a bell-icon notification feed with unread counts for every board change. Accounts are backed by SQLite via Node's built-in node:sqlite with real bcrypt hashing (no external DB setup needed), and boards can be exported client-side to PDF or Word.
+### [Flowboard - Project Management Tool](https://github.com/sameerkhanbadoi786-sudo/Flowboard--Project-Management-Tool.git)
+Trello-style project management tool built with React 19, Vite, Node/Express and Socket.io. Features drag-and-drop lists, live board sync, a notification feed with unread counts and board export to PDF or Word. Accounts are secured with bcrypt and stored in SQLite.
 
 ### [Prescripto](https://github.com/sameerkhanbadoi786-sudo/prescripto.git)
-A MERN-stack doctor appointment booking app with bcrypt-hashed auth, doctor availability windows, and booking logic that blocks double-bookings and past-date slots. Automated Twilio SMS and Nodemailer email reminders fire 12 and 6 hours before each appointment, and the backend ships with an 18-test suite run against a throwaway in-memory MongoDB.
+MERN-stack doctor appointment booking app with secure authentication, doctor availability windows and double-booking prevention. Sends automated SMS (Twilio) and email (Nodemailer) reminders before appointments and includes an 18-test backend suite.
 
 ### [Nexus Full Stack Application](https://github.com/sameerkhanbadoi786-sudo/Nexus-Full-Stack-Main-.git)
-A full-stack starter app split into frontend/ and backend/ folders, with the backend organized into separate routes/ and controllers/ layers and TypeScript in the mix alongside JS/HTML/CSS. Notably, it's wired up with a .gitmodules file, so part of the codebase is pulled in as a git submodule rather than committed directly.
+Full-stack application with separate frontend and backend layers. The backend follows a routes and controllers structure and uses TypeScript alongside JavaScript.
 
 ### [Ecommerce Web Design](https://github.com/sameerkhanbadoi786-sudo/Ecommerce-Web-Design.git)
-A responsive storefront front-end (React + Vite, not plain HTML/CSS/JS as the repo name implies) with a product listing grid and shopping cart UI, built mobile-first with no external UI framework — just Vite, ESLint and vanilla styling.
-
-##  Certifications
-
--  **Front-End Development** — DevelopersHub Corporation *(Best Award | DHC-2363 | 2026)*
+Responsive, mobile-first storefront built with React and Vite, featuring a product listing grid and shopping cart interface.
 
 ---
 
-## 🔗 Connect With Me
+## Experience and Certifications
+
+- **Full Stack Development Virtual Internship**, CodeAlpha (Sept 2026), Certificate of Completion and Letter of Recommendation
+- **Front-End Development Internship**, DevelopersHub Corporation (2026), Best Award, Certificate ID: DHC-2363
+
+---
+
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sameersafdar)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sameerkhanbadoi786@gmail.com)

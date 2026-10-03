@@ -58,6 +58,12 @@ Responsive, mobile-first storefront built with React and Vite, featuring a produ
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sameerkhanbadoi786-sudo/sameerkhanbadoi786-sudo/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sameerkhanbadoi786-sudo/sameerkhanbadoi786-sudo/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/sameerkhanbadoi786-sudo/sameerkhanbadoi786-sudo/output/github-snake.svg" />
+</picture>
+
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sameersafdar)
